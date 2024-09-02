@@ -17,8 +17,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "703. Kth Largest Element in
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2500. Delete Greatest Value in Each Row", "2500. Delete Greatest Value in Each Row\2500. Delete Greatest Value in Each Row.csproj", "{DCA5693B-E9DB-4EB3-B22D-29932772EEF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash-Table", "Hash-Table\Hash-Table.csproj", "{09A78924-9E1D-4BC6-A290-66C18138E50E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Roman to Integer", "13. Roman to Integer\13. Roman to Integer.csproj", "{AB6AB0FA-8A12-492C-BDCF-6D52B1DC1BC0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Integer to Roman", "12. Integer to Roman\12. Integer to Roman.csproj", "{B7B24BAF-6AB9-4243-B3E6-2A859F54089B}"
@@ -99,6 +97,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Two Sum", "1. Two Sum\1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "500. Keyboard Row", "500. Keyboard Row\500. Keyboard Row.csproj", "{2047B8BE-FC8D-4DA3-9832-E58A9150F08D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1791. Find Center of Star Graph", "1791. Find Center of Star Graph\1791. Find Center of Star Graph.csproj", "{2BF77024-B22A-4D1E-8719-D1EF58EC2C68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "997. Find the Town Judge 2nd solution", "997. Find the Town Judge 2 part\997. Find the Town Judge 2nd solution.csproj", "{60C7BDDD-2711-483C-9A95-8595E35EB737}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,10 +135,6 @@ Global
 		{DCA5693B-E9DB-4EB3-B22D-29932772EEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCA5693B-E9DB-4EB3-B22D-29932772EEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCA5693B-E9DB-4EB3-B22D-29932772EEF3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{09A78924-9E1D-4BC6-A290-66C18138E50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{09A78924-9E1D-4BC6-A290-66C18138E50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{09A78924-9E1D-4BC6-A290-66C18138E50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{09A78924-9E1D-4BC6-A290-66C18138E50E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AB6AB0FA-8A12-492C-BDCF-6D52B1DC1BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AB6AB0FA-8A12-492C-BDCF-6D52B1DC1BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB6AB0FA-8A12-492C-BDCF-6D52B1DC1BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -297,6 +295,14 @@ Global
 		{2047B8BE-FC8D-4DA3-9832-E58A9150F08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2047B8BE-FC8D-4DA3-9832-E58A9150F08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2047B8BE-FC8D-4DA3-9832-E58A9150F08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF77024-B22A-4D1E-8719-D1EF58EC2C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF77024-B22A-4D1E-8719-D1EF58EC2C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF77024-B22A-4D1E-8719-D1EF58EC2C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF77024-B22A-4D1E-8719-D1EF58EC2C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C7BDDD-2711-483C-9A95-8595E35EB737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C7BDDD-2711-483C-9A95-8595E35EB737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C7BDDD-2711-483C-9A95-8595E35EB737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C7BDDD-2711-483C-9A95-8595E35EB737}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
