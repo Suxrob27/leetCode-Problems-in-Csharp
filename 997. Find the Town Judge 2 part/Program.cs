@@ -47,6 +47,7 @@ namespace _997.Find_the_Town_Judge_2_part
 
             Solution sl = new Solution();
             sl.FindJudge(1, inhabitants);
+             
         }
     }
 }
